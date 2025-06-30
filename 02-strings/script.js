@@ -13,6 +13,12 @@ console.log (name);
 const number =30;
 console.log(number);
 
+const text= 'il mio nome è Drakul Mihawk';
+console.log(text);
+
+const bool= true;
+console.log(bool);
+
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
 // in console la stringa con il nome completo
